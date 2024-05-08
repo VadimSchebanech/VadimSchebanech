@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### My Name is Vadim Schebanech, I'm just an ordinary guy from Ukraine. Currently, I live in Germany.
+#### I'm interested in technology and video games!
+#### In the near future, I would like to become a specialist in the field of Web-Development. (It would be very nice 😄)
+#### How to reach me: 
+#### - https://www.instagram.com/_sheba_13/
 
 <!--
 **VadimSchebanech/VadimSchebanech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
